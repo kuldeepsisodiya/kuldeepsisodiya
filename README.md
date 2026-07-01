@@ -1,10 +1,6 @@
 # 💫 Hi 👋, I'm Kuldeep Sisodiya
 **A passionate AI/ML Engineer || Full Stack Web Developer ||**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kuldeepsisodiya&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepsisodiya" />
-</p>
-
 Email Me 👉 ✉️ **kuldeepsisodiya901@gmail.com** For Collaboration/Projects or Anything Else. 😊😊
 
 👨‍💻 All of my projects are available at:  
