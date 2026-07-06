@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **kuldeepsisodiya901@gmail.com** For Collaboration/Projects
 👨‍💻 All of my projects are available at:  
 🌐 **https://kuldeep.is-a.dev/**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1138159340923125863?hideTimestamp=true&hideBadges=true&hideTag=true&hideStatus=true&theme=dark)](https://discord.com/users/1138159340923125863)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1138159340923125863?hideTag=true&hideBadges=true&theme=dark&hideTimestamp=true&idleMessage=Pushing%20commits.)](https://discord.com/users/1138159340923125863)
 
 ---
 
