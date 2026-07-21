@@ -8,11 +8,10 @@ Email Me 👉 ✉️ **kuldeepsisodiya901@gmail.com** For Collaboration/Projects
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1138159340923125863?hideTag=true&hideBadges=true&theme=dark&hideTimestamp=true&idleMessage=Pushing%20commits.)](https://discord.com/users/1138159340923125863)
 
-### GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepsisodiya&show_icons=true&theme=tokyonight"/>
-</p>
+-
+
 ---
 
 ## 🌐 Socials:
@@ -26,9 +25,7 @@ Email Me 👉 ✉️ **kuldeepsisodiya901@gmail.com** For Collaboration/Projects
 
 # 💻 Tech Stack:
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
