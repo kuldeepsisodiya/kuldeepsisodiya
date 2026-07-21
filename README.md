@@ -8,6 +8,11 @@ Email Me 👉 ✉️ **kuldeepsisodiya901@gmail.com** For Collaboration/Projects
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1138159340923125863?hideTag=true&hideBadges=true&theme=dark&hideTimestamp=true&idleMessage=Pushing%20commits.)](https://discord.com/users/1138159340923125863)
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepsisodiya&show_icons=true&theme=tokyonight"/>
+</p>
 ---
 
 ## 🌐 Socials:
