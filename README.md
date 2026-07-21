@@ -8,7 +8,7 @@ I'm passionate about building intelligent applications, modern web experiences, 
 
 > Feel free to reach out for collaborations, freelance work, or exciting project ideas!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1138159340923125863?hideTag=true&hideBadges=false&theme=dark&hideTimestamp=true&idleMessage=Pushing%20commits.)](https://discord.com/users/1138159340923125863)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1138159340923125863?theme=dark&hideBadges=false&hideTag=true&cache=0)](https://discord.com/users/1138159340923125863)
 
 ---
 
