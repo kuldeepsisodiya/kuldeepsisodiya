@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **kuldeepsisodiya901@gmail.com** For Collaboration/Projects
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kuldeepsisodiya&theme=dark&hide_border=false)](https://github.com/kuldeepsisodiya)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kuldeepsisodiya&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
