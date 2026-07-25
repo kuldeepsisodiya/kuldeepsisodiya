@@ -14,7 +14,7 @@ I'm passionate about building intelligent applications, modern web experiences, 
 
 # 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kuldeepsisodiya&theme=highcontrast&hide_border=true&v=3)](https://git.io/streak-stats)
+![GitHub Streak](https://raw.githubusercontent.com/kuldeepsisodiya/kuldeepsisodiya/main/profile/streak.svg)
 
 ---
 
