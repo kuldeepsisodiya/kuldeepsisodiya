@@ -8,7 +8,13 @@
 
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1138159340923125863?theme=dark&hideBadges=false&hideTag=true&cache=0&idleMessage=Committing%20code...)](https://discord.com/users/1138159340923125863)
+<a href="https://discord.com/users/1138159340923125863">
+  <img
+    src="https://lanyard.cnrad.dev/api/1138159340923125863?theme=dark&hideBadges=false&hideTag=true&cache=0&idleMessage=Committing%20code..."
+    width="860"
+    alt="Kuldeep's Discord Presence"
+  />
+</a>
 
 <br><br>
 
@@ -56,5 +62,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuldeep%20Sisodiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepsinghsisodiya/)
 [![Instagram](https://img.shields.io/badge/Instagram-kuldeep._91-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kuldeep._91)
 [![YouTube](https://img.shields.io/badge/YouTube-Kuldeep%20Sisodiya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kuldeepsisodiya01)
-</div>
 
+</div>
