@@ -1,0 +1,32 @@
+name: Update Discord Profile SVG
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm i playwright sharp
+
+      - run: npx playwright install chromium
+
+      - name: Capture profile
+        run: node scripts/capture.js
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Discord profile SVG
