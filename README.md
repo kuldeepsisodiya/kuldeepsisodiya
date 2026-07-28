@@ -18,6 +18,21 @@ I'm passionate about building intelligent applications, modern web experiences, 
 
 ---
 
+#📑 Github Contribution
+
+<p align="center">
+  <img
+    src="./contrib-heatmap.svg"
+    width="860"
+    alt="Your GitHub contribution graph — auto-refreshed daily"
+  />
+</p>
+
+<br>
+<br>
+
+---
+
 # 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kuldeep._91)
