@@ -1,64 +1,62 @@
-# 💫 Hi 👋, I'm Kuldeep Sisodiya
+<div align="center">
 
+<h3><code>kuldeep@github ~ $ whoami</code></h3>
 
-I'm passionate about building intelligent applications, modern web experiences, and contributing to open-source projects.
+# 🧑🏼‍💻 Kuldeep Sisodiya
 
-📧 **Email:** **kuldeepsisodiya901@gmail.com**  
-🌐 **Portfolio:** **https://kuldeep.is-a.dev/**
+**Full Stack Developer**
 
-> Feel free to reach out for collaborations, freelance work, or exciting project ideas!
+> Passionate about building intelligent applications, modern web experiences, and contributing to open-source projects.
+
+<br>
+
+<h3><code>kuldeep@github ~ $ ./contact.sh</code></h3>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kuldeep.is--a.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://kuldeep.is-a.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuldeep%20Sisodiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepsinghsisodiya/)
+[![Instagram](https://img.shields.io/badge/Instagram-kuldeep._91-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kuldeep._91)
+[![YouTube](https://img.shields.io/badge/YouTube-Kuldeep%20Sisodiya-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kuldeepsisodiya01)
+
+<br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1138159340923125863?theme=dark&hideBadges=false&hideTag=true&cache=0)](https://discord.com/users/1138159340923125863)
 
----
+<br><br>
 
-# 🔥 GitHub Streak
+<h3><code>kuldeep@github ~ $ ./streak.sh</code></h3>
 
-![GitHub Streak](https://raw.githubusercontent.com/kuldeepsisodiya/kuldeepsisodiya/main/profile/streak.svg)
+<img
+  src="https://raw.githubusercontent.com/kuldeepsisodiya/kuldeepsisodiya/main/profile/streak.svg"
+  width="860"
+  alt="Kuldeep's GitHub Streak"
+/>
 
----
+<br><br>
 
-# 📑 Github Contribution
+<h3><code>kuldeep@github ~ $ ./contributions.sh</code></h3>
 
-<p align="center">
-  <img
-    src="./contrib-heatmap.svg"
-    width="860"
-    alt="Your GitHub contribution graph — auto-refreshed daily"
-  />
-</p>
+<img
+  src="./contrib-heatmap.svg"
+  width="860"
+  alt="Kuldeep's GitHub Contribution Graph"
+/>
 
-<br>
-<br>
+<br><br>
 
----
+<h3><code>kuldeep@github ~ $ ./tech-stack.sh</code></h3>
 
-# 🌐 Connect With Me
+<img
+  src="https://skillicons.dev/icons?i=java,js,python,react,nextjs,nodejs,mongodb,mysql,git,github,vercel,netlify,vscode"
+  alt="Tech Stack"
+/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kuldeep._91)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepsinghsisodiya/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kuldeepsisodiya01)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuldeepsisodiya901@gmail.com)
+<br><br>
 
----
+<h3><code>kuldeep@github ~ $ ./quote.sh</code></h3>
 
-# 💻 Tech Stack
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
+  alt="Random Developer Quote"
+/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
