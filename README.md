@@ -11,7 +11,6 @@
 <a href="https://discord.com/users/1138159340923125863">
   <img
     src="https://lanyard.cnrad.dev/api/1138159340923125863?theme=dark&hideBadges=false&hideTag=true&cache=0&idleMessage=Committing%20code..."
-    width="860"
     alt="Kuldeep's Discord Presence"
   />
 </a>
