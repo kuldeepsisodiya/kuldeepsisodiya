@@ -1,39 +1,8 @@
 <div align="center">
 
-<h3><code>kuldeep@github ~ $ whoami</code></h3>
+<br><br>
 
 # 🧑🏼‍💻 Kuldeep Sisodiya
-
-**Full Stack Developer**
-
-<br>
-
-<a href="https://discord.com/users/1138159340923125863">
-  <img
-    src="https://lanyard.cnrad.dev/api/1138159340923125863?theme=dark&hideBadges=false&hideTag=true&cache=0&idleMessage=Committing%20code..."
-    alt="Kuldeep's Discord Presence"
-  />
-</a>
-
-<br><br>
-
-<h3><code>kuldeep@github ~ $ ./streak.sh</code></h3>
-
-<img
-  src="https://raw.githubusercontent.com/kuldeepsisodiya/kuldeepsisodiya/main/profile/streak.svg"
-  width="860"
-  alt="Kuldeep's GitHub Streak"
-/>
-
-<br><br>
-
-<h3><code>kuldeep@github ~ $ ./contributions.sh</code></h3>
-
-<img
-  src="./contrib-heatmap.svg"
-  width="860"
-  alt="Kuldeep's GitHub Contribution Graph"
-/>
 
 <br><br>
 
@@ -42,15 +11,6 @@
 <img
   src="https://skillicons.dev/icons?i=java,js,python,react,nextjs,nodejs,mongodb,mysql,git,github,vercel,netlify,vscode"
   alt="Tech Stack"
-/>
-
-<br><br>
-
-<h3><code>kuldeep@github ~ $ ./quote.sh</code></h3>
-
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
-  alt="Random Developer Quote"
 />
 
 <br><br>
